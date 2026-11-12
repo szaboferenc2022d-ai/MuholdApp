@@ -6,7 +6,7 @@ namespace MuholdApp
 {
     internal class Muhold
     {
-        string Azonosito { get; set; }
+        public string Azonosito { get; set; }
         protected int sulyKg { get; set; }
         public int SulyKg
         {
