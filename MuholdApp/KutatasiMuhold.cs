@@ -20,7 +20,7 @@ namespace MuholdApp
 
         public override string ToString()
         {
-            return (base.ToString()) + $" | Műszerek: [MuszerekSzama] db";
+            return (base.ToString()) + $" | Műszerek: {MuszerekSzama} db";
         }
 
 

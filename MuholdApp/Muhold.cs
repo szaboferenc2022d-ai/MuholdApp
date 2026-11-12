@@ -28,6 +28,7 @@ namespace MuholdApp
         {
             Azonosito = azonosito;
             SulyKg = sulyKg;
+            osszesMuholdSzama++;
         }
 
         public virtual int NapiKoltseg()
